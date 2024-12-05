@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">He/Him - Brazilian - (PT/BR + English)<br><br>📚 Cursing software engineering in [FIAP](https://www.fiap.com.br)<br>🔨 Focused on being a Back-End Developer<br>🖥️ Coding everything in Windows (At this moment)</p>
+<p align="left">He/Him - Brazilian - (PT/BR + English)<br><br>📚 Cursing software engineering in [![FIAP]](https://www.fiap.com.br)<br>🔨 Focused on being a Back-End Developer<br>🖥️ Coding everything in Windows (At this moment)</p>
 
 ###
 
