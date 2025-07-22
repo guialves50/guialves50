@@ -1,4 +1,3 @@
-![Header](./a.png)
 # 💫 About Me:
 Hi! I'm Guilherme, a passionate Back-End Developer from Brazil, focused on building efficient and scalable web applications.<br><br>I have a strong interest in designing APIs and solving real-world problems through clean and maintainable code. My goal is to keep learning, growing, and contributing to impactful tech projects.<br><br>💻 What I enjoy working with:<br><br>Back-end technologies like Node.js, Golang, and Java<br><br>RESTful APIs, microservices, and clean architecture<br><br>Relational and NoSQL databases<br><br>Docker, Git, and CI/CD workflows<br><br>🌱 Currently improving my skills in Golang and exploring cloud technologies.<br><br>📚 Lifelong learner | Team player | Open to new challenges<br><br>Let’s connect and build something amazing together!
 
