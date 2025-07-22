@@ -23,3 +23,11 @@ Hi! I'm Guilherme, a passionate Back-End Developer from Brazil, focused on build
 
 ---
 [![](https://visitcount.itsvg.in/api?id=guialves50&icon=10&color=13)](https://visitcount.itsvg.in)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guialves50/guialves50/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guialves50/guialves50/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/guialves50/guialves50/output/pacman-contribution-graph.svg">
+</picture>
+
+_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
