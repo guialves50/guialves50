@@ -3,7 +3,7 @@ Hi! I'm Guilherme, a passionate Back-End Developer from Brazil, focused on build
 
 
 ## 🌐 Socials:
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/https://discord.gg/ymKcdRMURF) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/guialves50) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/g7a) [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/guialves50) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@guialves50) 
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/https://discord.gg/ymKcdRMURF) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/guialves50) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/g7a) [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/guialves50) [![YouTube](https://skillicons.dev/icons?i=youtube)](https://youtube.com/@guialves50) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,express,nestjs,npm,mongodb,postgres,go,github,prisma,nodejs,postman,react,java,spring)](https://skillicons.dev)
