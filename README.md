@@ -1,28 +1,131 @@
-# 💫 About Me:
-Hi! I'm Guilherme, a passionate Back-End Developer from Brazil, focused on building efficient and scalable web applications.<br><br>I have a strong interest in designing APIs and solving real-world problems through clean and maintainable code. My goal is to keep learning, growing, and contributing to impactful tech projects.<br><br>💻 What I enjoy working with:<br><br>Back-end technologies like Node.js, Golang, and Java<br><br>RESTful APIs, microservices, and clean architecture<br><br>Relational and NoSQL databases<br><br>Docker, Git, and CI/CD workflows<br><br>🌱 Currently improving my skills in Golang and exploring cloud technologies.<br><br>📚 Lifelong learner | Team player | Open to new challenges<br><br>Let’s connect and build something amazing together!
+<h1 align="center">Guilherme Alves</h1>
+<p align="center">
+  <strong>Back-End Developer</strong> · Go · TypeScript · Node.js<br/>
+  Sistemas de automação industrial de dia. APIs e arquitetura de software o resto do tempo.
+</p>
 
-
-## 🌐 Socials:
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/https://discord.gg/ymKcdRMURF) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/guialves50) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/g7a) [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/guialves50) [![YouTube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://youtube.com/@guialves50) 
-
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,express,nestjs,npm,mongodb,postgres,go,github,prisma,nodejs,postman,react,java,spring)](https://skillicons.dev)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=guialves50&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=guialves50&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=guialves50&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=guialves50&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=guialves50&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://linkedin.com/in/g7a"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
+  <a href="https://github.com/guialves50"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
+  <a href="https://x.com/guialves50"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X"/></a>
+  <a href="https://discord.gg/ymKcdRMURF"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord"/></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=guialves50&icon=10&color=13)](https://visitcount.itsvg.in)
+
+## Sobre
+
+Desenvolvedor back-end e estudante de Ciência da Computação, no Brasil.
+
+No trabalho, escrevo Python que conversa com CLPs baseados em Raspberry Pi via **Modbus TCP** — leitura de temperatura de fornos e secadores, acionamento de equipamento por coils e holding registers, e persistência dos dados para análise. Sistema em produção, chão de fábrica, sem margem para "funciona na minha máquina".
+
+Fora dele, estou reconstruindo minha base de engenharia de software do zero: fundamentos de rede, protocolos, bancos de dados, concorrência e arquitetura — na ordem certa, escrevendo o primeiro rascunho de cada solução sem IA antes de pedir revisão.
+
+```go
+type Dev struct {
+    Nome      string
+    Foco      []string
+    Estudando string
+    Regra     string
+}
+
+func main() {
+    g := Dev{
+        Nome:      "Guilherme",
+        Foco:      []string{"APIs", "Arquitetura", "Sistemas distribuídos"},
+        Estudando: "Go + fundamentos de back-end",
+        Regra:     "entender antes de automatizar",
+    }
+    _ = g
+}
+```
+
+---
+
+## Stack
+
+**Linguagens**
+
+[![](https://skillicons.dev/icons?i=go,ts,js,python,java)](https://skillicons.dev)
+
+**Back-end & Frameworks**
+
+[![](https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,prisma)](https://skillicons.dev)
+
+**Dados**
+
+[![](https://skillicons.dev/icons?i=postgres,mongodb,redis)](https://skillicons.dev)
+
+**Infra & Ferramentas**
+
+[![](https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,postman,raspberrypi)](https://skillicons.dev)
+
+**Também trabalho com:** Modbus TCP, `pymodbus`, integração com CLPs, REST, arquitetura limpa, testes automatizados.
+
+---
+
+## Projeto principal: PixelBank
+
+Carteira digital com **ledger de partidas dobradas** — o projeto-âncora que evolui junto com meus estudos.
+
+A ideia é simples de descrever e difícil de acertar: todo movimento de dinheiro é registrado como um par débito/crédito, o saldo nunca é um campo mutável e sim uma projeção do ledger, e o sistema precisa fechar sempre em zero. É onde eu exercito, em ordem crescente de dificuldade:
+
+- Modelagem de domínio financeiro e invariantes contábeis
+- Transações, isolamento e concorrência em PostgreSQL
+- Idempotência e consistência em operações de saldo
+- Autenticação, autorização e trilha de auditoria
+- Observabilidade, testes de integração e deploy containerizado
+
+> Em construção pública, uma fase de cada vez.
+
+---
+
+## Roadmap de estudos
+
+Sigo um roadmap próprio de **11 fases**, baseado nas trilhas Backend e Go do roadmap.sh, com regras de disciplina fixas:
+
+- Primeiro rascunho **sempre sem IA**
+- Técnica de Feynman para fechar cada tópico
+- Code review reverso: eu explico o código antes de aceitar sugestão
+
+| Fase | Tema | Status |
+|:----:|------|:------:|
+| 0 | Lógica de programação e pseudocódigo | ✅ |
+| 1 | Fundamentos da web (HTTP, DNS, hospedagem, browsers) | 🔄 |
+| 2 | Linguagem: Go | ⏳ |
+| 3 | Bancos de dados relacionais | ⏳ |
+| 4 | APIs, autenticação e segurança | ⏳ |
+| 5 | Testes e qualidade | ⏳ |
+| 6 | Caching, filas e mensageria | ⏳ |
+| 7 | Containers, CI/CD e deploy | ⏳ |
+| 8 | Observabilidade | ⏳ |
+| 9 | Escalabilidade e sistemas distribuídos | ⏳ |
+| 10 | Arquitetura de software | ⏳ |
+
+Cada sessão de estudo vira nota estruturada no meu Second Brain (Obsidian, estrutura PARA própria), com comandos automatizados de ingestão e consulta.
+
+---
+
+## Outros projetos
+
+**Jarvis** — assistente de voz para escritório rodando em Raspberry Pi como orquestrador, com Claude API como camada de decisão: wake word, STT com Whisper, TTS com Piper, agentes para acesso a arquivos em rede e integração com Home Assistant + Broadlink para controle de IoT.
+
+**Automação industrial** — refatoração de um sistema Modbus TCP em produção: migração de versão do `pymodbus`, suporte a context manager, padronização de tratamento de erro e logging estruturado.
+
+---
+
+## Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guialves50&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialves50&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=guialves50&theme=dracula&hide_border=true" />
+</p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guialves50/guialves50/output/pacman-contribution-graph-dark.svg">
@@ -30,4 +133,8 @@ Hi! I'm Guilherme, a passionate Back-End Developer from Brazil, focused on build
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/guialves50/guialves50/output/pacman-contribution-graph.svg">
 </picture>
 
-_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+---
+
+<p align="center">
+  <i>Aberto a conversas sobre back-end, Go, sistemas embarcados e arquitetura.</i>
+</p>
