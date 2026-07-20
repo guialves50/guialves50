@@ -15,7 +15,7 @@
 
 ## Sobre
 
-Desenvolvedor back-end e estudante de Ciência da Computação, no Brasil.
+Desenvolvedor back-end e estudante de Engenharia de Software, no Brasil.
 
 No trabalho, escrevo Python que conversa com CLPs baseados em Raspberry Pi via **Modbus TCP** — leitura de temperatura de fornos e secadores, acionamento de equipamento por coils e holding registers, e persistência dos dados para análise. Sistema em produção, chão de fábrica, sem margem para "funciona na minha máquina".
 
