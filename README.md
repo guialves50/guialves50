@@ -16,7 +16,7 @@
 
 ## Sobre
 
-Desenvolvedor back-end na **Comber Indústria** (Rio Verde, GO) e estudante de Ciência da Computação na UniRV.
+Desenvolvedor back-end na **Comber Indústria** (Rio Verde, GO) e estudante de Engenharia de Software na UniRV.
 
 Meu trabalho fica na fronteira entre software e chão de fábrica: sistemas que leem sensores, controlam equipamentos via **Modbus TCP** e rodam em produção dentro de PCs industriais e Raspberry Pi, na planta do cliente. Em paralelo, desenvolvo APIs em **TypeScript/Node.js** com foco em testes, CI e modelagem de regras de negócio.
 
